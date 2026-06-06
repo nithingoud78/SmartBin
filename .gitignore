@@ -1,0 +1,18 @@
+# Build files
+*.exe
+*.bin
+*.hex
+*.elf
+*.log
+*.tmp
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Arduino cache
+build/
